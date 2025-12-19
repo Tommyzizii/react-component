@@ -3,7 +3,7 @@ import "../App.css";
 function User() {
   return (
     <div>
-      <h1>Thant Si Thu Naing</h1>
+      <h1>Thant Zin Min</h1>
     </div>
   );
 }
